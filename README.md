@@ -5,7 +5,7 @@ This project allows users to select skip sizes, calculate prices, and manage was
 ## Demo
 
 You can try the live demo of the application here:  
-[Skip Hire Live Demo](https://your-app-name.netlify.app)
+[Skip Hire Live Demo](https://wewantwaste.co.uk/)
 
 This demo will show how users can:
 1. Enter their postcode and select an address.
