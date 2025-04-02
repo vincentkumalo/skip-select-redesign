@@ -65,7 +65,7 @@ To run the app locally, follow these steps:
     python app.py
     ```
 
-4. Open your web browser and go to `http://localhost:5000` (or the appropriate port if you configure it differently) to see the app running.
+4. Open your web browser and go to `https://wewantwaste.co.uk/` (or the appropriate port if you configure it differently) to see the app running.
 
 ---
 
