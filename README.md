@@ -45,7 +45,7 @@ The app is built using the following languages and technologies:
 ## Repository
 
 Check out the source code on GitHub:  
-[Skip Hire GitHub Repository](https://github.com/your-username/your-repository-name)
+[Skip Hire GitHub Repository](https://github.com/vincentkumalo/skip-select-redesign)
 
 ## Running Locally
 
